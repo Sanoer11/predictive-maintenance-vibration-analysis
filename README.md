@@ -121,14 +121,14 @@ predictive-maintenance-vibration-analysis/
 2. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/predictive-maintenance-vibration-analysis.git
+git clone https://github.com/Sanoer11/predictive-maintenance-vibration-analysis.git
 ```
 
 3. Place vibration dataset inside `data/`
 4. Run:
 
 ```matlab
-predictive_maintenance.m
+predictive_maintenance.mlx
 ```
 
 ---
